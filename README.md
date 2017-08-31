@@ -1,0 +1,2 @@
+# nltc
+Stock Management
